@@ -1,0 +1,21 @@
+# Project exclude paths
+/.gradle/
+/Encryption-Decryption/task/build/
+/Encryption-Decryption/task/out/
+/Encryption-Decryption/task/out/production/classes/
+/Topics/Arrays/Initializing an array/out/
+/Topics/Arrays/Initializing an array/out/production/classes/
+/Topics/Arrays/Swap elements/out/
+/Topics/Arrays/Swap elements/out/production/classes/
+/Topics/Functions as objects/Function generator/out/
+/Topics/Functions as objects/Function generator/out/production/classes/
+/Topics/Lambda expressions/Function composition/out/
+/Topics/Lambda expressions/Function composition/out/production/classes/
+/Topics/Lambda expressions/Range multiplication/out/
+/Topics/Lambda expressions/Range multiplication/out/production/classes/
+/Topics/The main() function/Printing arguments/out/
+/Topics/The main() function/Printing arguments/out/production/classes/
+/Topics/The main() function/Using arguments/out/
+/Topics/The main() function/Using arguments/out/production/classes/
+/Topics/Writing files/Duplication/out/
+/Topics/Writing files/Duplication/out/production/classes/
